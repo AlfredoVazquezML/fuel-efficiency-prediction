@@ -1,0 +1,32 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Editor/IDE-specific files
+.idea/  # For PyCharm/IntelliJ
+.vscode/ # For VS Code
+*.swp   # For Vim
+
+# Build artifacts and distributions
+dist/
+build/
+*.whl
+*.tar.gz
+
+# Installer logs
+pip-log.txt
+pip-delete-this-line.txt
+
+# OS-specific files
+.DS_Store # macOS
+Thumbs.db # Windows
