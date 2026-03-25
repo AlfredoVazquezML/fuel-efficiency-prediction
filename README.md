@@ -93,8 +93,7 @@ Using SHAP values, we audited the model to verify physical consistency.
 ## How to Run
 1. **Clone the repository:** 
 ```bash 
-git clone [https://github.com/AlfredoVazquezML/fuel-efficiency-prediction.git]
-(https://github.com/AlfredoVazquezML/fuel-efficiency-prediction.git)
+git clone https://github.com/AlfredoVazquezML/fuel-efficiency-prediction.git
 ```
 1. **Install requirements:** 
 ```bash
